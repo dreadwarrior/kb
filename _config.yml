@@ -30,7 +30,8 @@ twitter_username: dreadwarrior
 github_username:  dreadwarrior
 
 # Build settings
-theme: minima
+#remote_theme: sighingnow/jekyll-gitbook - not working: css/js assets are not loaded
+remote_theme:  pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
