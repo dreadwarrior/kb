@@ -23,8 +23,9 @@ email: tommy@van-tomas.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal, technical knowledge base. It collects information
   for my journey as a software developer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: dreadwarrior.github.io
+baseurl: "/kb" # the subpath of your site, e.g. /blog
+url: "https://dreadwarrior.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dreadwarrior
 github_username:  dreadwarrior
 
