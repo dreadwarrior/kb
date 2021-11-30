@@ -34,6 +34,17 @@ Klassenbibliotheken.[^1]
 
 * werden zur Sortierung verwendet
 
+## Interessante Bibliotheken
+
+* [resilience4j](https://resilience4j.readme.io)
+  * [Tutorial: RateLimiter](https://reflectoring.io/rate-limiting-with-resilience4j/#tune-client-side-and-server-side-rate-limiters)
+* MapStruct
+  * z.B. für für die saubere _separation of concerns_ in (Jpa)Repositories
+  * [Mapping immutable POJOs with MapStruct](https://medium.com/trabe/mapping-immutable-pojos-with-mapstruct-3f0bf4627fbc)
+  * [Quick Guide to MapStruct](https://www.baeldung.com/mapstruct)
+* [Kotlin kapt](https://kotlinlang.org/docs/kapt.html) (Annotation Processor)
+* MicroProfile (Eclipse) (z.B. OpenTracing)
+
 ---
 
 [^1]: Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Java_Virtual_Machine)
