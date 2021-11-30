@@ -21,7 +21,3 @@ erheben keinen Anspruch auf Vollständigkeit oder Richtigkeit.
 
 Das Projekt dient als eine Art digitaler Zettelkasten der Dokumentation von 
 persönlichem Wissen.
-
----
-
-&copy; 2021<!-- -{{ "now" | date: "%Y" }} --> [Thomas Juhnke](https://dreadlabs.de).
