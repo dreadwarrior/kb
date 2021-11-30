@@ -10,10 +10,11 @@ parent: JVM
 
 ---
 
-## Zu erledigen
+## Aufgaben
 
-* <i class="bi bi-toggle-off"></i> _Collections / Aggregate Operations_: finde 
-  eine leicht zu verstehende Beschreibung/Definition für `fold` und `reduce`.
+### Collections / Aggregate Operations
+
+- [ ] finde eine leicht zu verstehende Beschreibung/Definition für `fold` und `reduce`.
 
 ## IntelliJ-Integration
 
@@ -34,7 +35,7 @@ _pom.xml:_ Verwendung des Kotlin Compiler-Arguments `jvmTarget`.
 ## Scope functions
 
 | function | context object | return value | use case |
-+-|-|-|-+
+|:-|:-|:-|:-|
 | `run` | `this` (lambda receiver) | lambda result | _...recommended for lambdas that mainly operate on the object members: call its functions or assign properties..._ |
 | `with` | `this` (lambda receiver) | lambda result | [Calling multiple methods on an object instance (with)](https://kotlinlang.org/docs/reference/idioms.html#calling-multiple-methods-on-an-object-instance-with) |
 | `apply` | `this` (lambda receiver) | context object | [Configuring properties of an object (apply)](https://kotlinlang.org/docs/reference/idioms.html#configuring-properties-of-an-object-apply) |
