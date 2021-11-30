@@ -54,3 +54,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Theme configuration
+gh_edit_link: true
+gh_edit_link_text: "Diese Seite auf GitHub bearbeiten."
+gh_edit_repository: "https://github.com/dreadwarrior/kb"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
