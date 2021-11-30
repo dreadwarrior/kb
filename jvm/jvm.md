@@ -45,6 +45,7 @@ Klassenbibliotheken.[^1]
   * [Quick Guide to MapStruct](https://www.baeldung.com/mapstruct)
 * [Kotlin kapt](https://kotlinlang.org/docs/kapt.html) (Annotation Processor)
 * MicroProfile (Eclipse) (z.B. OpenTracing)
+* [vy/hrrs: Record, transform, and replay HTTP requests in Java EE and Spring applications.](https://github.com/vy/hrrs)
 
 ---
 
