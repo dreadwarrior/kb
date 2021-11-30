@@ -5,19 +5,27 @@ nav_order: 1
 permalink: /
 ---
 
-# TommyKB - eine Wissensdatenbank
+# Nokieksel
 {: .fs-9 }
 
-In dieser persönlichen, technischen Wissensdatenbank sammle ich Informationen 
-für meine Arbeit als Softwareentwickler.
+Een **Nokieksel** (ook: Nakieksel) is een (druckt ellers ook elektronschet)
+Book, wo een wat nokieken kann. In mennig Spraaken heet dat Lexikon, Lexicon
+ellers ook dictionary un dictionarium. Wenn een Nokieksel good wat binn hett,
+denn ward dat ook encyclopedy, encyclopaedia ellers Enzyklopädie naamt. To'n
+Bispill de Encyclopedia Britannica un de Brockhaus. Un de ingelsche Wikipedia is
+meist dat dickste Nokieksel in dat Internet.[^wikipedia-nokieksel]
 {: .fs-6 .fw-300 }
 
 [Auf GitHub ansehen](https://github.com/dreadwarrior/kb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
-Die Informationen auf dieser Seite sind teilweise lose zusammengetragen und 
-erheben keinen Anspruch auf Vollständigkeit oder Richtigkeit.
+Eine Sammlung von Informationen für meine berufliche Tätigkeit als 
+Software Entwickler.
 
-Das Projekt dient als eine Art digitaler Zettelkasten der Dokumentation von 
-persönlichem Wissen.
+Sie sind teilweise lose zusammengetragen und erheben keinen Anspruch auf 
+Vollständigkeit oder Richtigkeit.
+
+---
+
+[^wikipedia-nokieksel]: [https://nds.wikipedia.org/wiki/Nokieksel](https://nds.wikipedia.org/wiki/Nokieksel)

@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TommyKB
+title: Nokieksel
 email: tommy@van-tomas.de
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal, technical knowledge base. It collects information
-  for my journey as a software developer.
+description: >- # this means to ignore newlines until "domain:"
+  Eine persönliche, technische Wissensdatenbank. Sammlung von Informationen für
+  meine berufliche Tätigkeit als Software Entwickler.
 domain: dreadwarrior.github.io
 baseurl: "/kb" # the subpath of your site, e.g. /blog
 url: "https://dreadwarrior.github.io" # the base hostname & protocol for your site, e.g. http://example.com
