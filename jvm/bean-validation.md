@@ -10,10 +10,12 @@ parent: JVM
 
 ---
 
-## Validierung einer `String`-Property, die `null` sein kann aber nicht leer sein da|rf
+## Beispiele
 
-Da z.B `@NotNull` oder `@NotBlank` auch voraussetzt, dass der Wert nicht `null` sein
-darf, kann man z.B. die Annotation `@Pattern` verwenden:
+### "NotBlankIfPresent"
+
+Da z.B `@NotNull` oder `@NotBlank` auch voraussetzt, dass der Wert nicht `null` 
+sein darf, kann man z.B. die Annotation `@Pattern` verwenden:
 
 ~~~
 @Pattern(regexp = "^(?!\\s*$).+", message = "May be null, but must not be blank.")
