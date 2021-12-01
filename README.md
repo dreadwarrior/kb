@@ -4,7 +4,6 @@
 
     # init rbenv in current shell session
     eval "$(rbenv init - -bash)"
-    eval "$(rbenv init - -bash)"
     # check ruby version (match .ruby-version)
     ruby -v
     # export gem path
