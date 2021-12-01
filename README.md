@@ -1,4 +1,4 @@
-# TommysKnowledgeBase
+# Nokieksel - a personal knowledge base
 
 ## rbenv usage instructions
 
