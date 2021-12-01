@@ -26,6 +26,18 @@ Software Entwickler.
 Sie sind teilweise lose zusammengetragen und erheben keinen Anspruch auf 
 Vollständigkeit oder Richtigkeit.
 
+## Eingang
+
+Lose Sammlung von Links mit deren Hilfe in entsprechenden Unterkapiteln eigene
+Artikel entstehen sollen
+
+- [Java 8: Composing functions using compose and andThen](https://www.deadcoderising.com/2015-09-07-java-8-functional-composition-using-compose-and-andthen/)
+- [Understanding Java 8’s Consumer, Supplier, Predicate and Function](https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d)
+- [Set a Timeout in Spring 5 Webflux WebClient](https://www.baeldung.com/spring-webflux-timeout)
+- [Resilient applications with Spring and Resilience4J](https://www.javaadvent.com/2020/12/resilient-applications-spring-resilience4j.html)
+- [JUnit5 Annotations](https://junit.org/junit5/docs/current/user-guide/#writing-tests-annotations)
+- [Online UUID Generator](https://www.uuidgenerator.net/)
+
 ---
 
 [^wikipedia-nokieksel]: [https://nds.wikipedia.org/wiki/Nokieksel](https://nds.wikipedia.org/wiki/Nokieksel)
