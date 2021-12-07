@@ -109,7 +109,7 @@ pom.xml
 
 ## IntelliJ-Integration
 
-Quell- und Zielplattform angeben (siehe `javac -source/-target`):
+### Quell- und Zielplattform angeben
 
 ~~~
 <properties>
@@ -117,8 +117,10 @@ Quell- und Zielplattform angeben (siehe `javac -source/-target`):
     <maven.compiler.target>8</maven.compiler.target>
 </properties>
 ~~~
-{: .language-xml}
+{: .language-xml .mb-0}
+
 _pom.xml:_ Verwendung der Compiler-Argumente `-source` und `-target`.
+{: .code-example .mt-0 .fs-2}
 
 Ab Java 9 existiert das `-release` Argument, welches mit der Property 
 `maven.compiler.release` (ab `maven-compiler-plugin:3.8.x`) gesetzt werden kann:
@@ -128,8 +130,10 @@ Ab Java 9 existiert das `-release` Argument, welches mit der Property
     <maven.compiler.release>17</maven.compiler.release>
 </properties>
 ~~~
-{: .language-xml}
+{: .language-xml .mb-0}
+
 _pom.xml:_ Verwendung des `-release` Compiler-Arguments.
+{: .code-example .mt-0 .fs-2}
 
 ## Plugins
 
