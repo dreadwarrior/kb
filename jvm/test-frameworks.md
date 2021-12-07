@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Testframeworks
+title: Test-Frameworks
 nav_order: 1
 parent: JVM
 ---
 
-# Testframeworks
+# Test-Frameworks
 {: .no_toc }
 
 ---
