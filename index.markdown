@@ -21,7 +21,7 @@ meist dat dickste Nokieksel in dat Internet.[^wikipedia-nokieksel]
 ---
 
 Eine Sammlung von Informationen für meine berufliche Tätigkeit als 
-Software Entwickler.
+Softwareentwickler.
 
 Sie sind teilweise lose zusammengetragen und erheben keinen Anspruch auf 
 Vollständigkeit oder Richtigkeit.
