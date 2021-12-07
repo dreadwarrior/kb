@@ -24,6 +24,7 @@ festgelegte oder vorausgesetzte Erfordernisse zu erfüllen.[^wikipedia-softwareq
 * [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/reference/html/index.html)
 * Kristine Jetzke (kreuzwerker GmbH): [Consumer-Driven Contract Tests: Lessons Learned](https://medium.com/kreuzwerker-gmbh/consumer-driven-contract-tests-lessons-learned-b4e1ac471d0c)
 * [Introduction to Microservices Testing and Consumer Driven Contract Testing with PACT](https://www.novatec-gmbh.de/en/blog/introduction-microservices-testing-consumer-driven-contract-testing-pact/)
+* [Integration Tests for Third Party APIs](https://medium.com/@axelhodler/integration-tests-for-third-party-apis-dab67c52e352)
 
 ---
 
