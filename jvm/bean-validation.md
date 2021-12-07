@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bean Validation
-nav_order: 7
+nav_order: 8
 parent: JVM
 ---
 
