@@ -135,6 +135,22 @@ Ab Java 9 existiert das `-release` Argument, welches mit der Property
 _pom.xml:_ Verwendung des `-release` Compiler-Arguments.
 {: .code-example .mt-0 .fs-2}
 
+### Archetype-Katalog erweitern
+
+IntelliJ wird mit einem relativ kleinen Archetype-Katalog ausgeliefert.
+Mit dieser Anleitung kann man ihn erweitern:
+
+1. Plugin [Maven Archetype Catalogs][intellij-plugin-maven-archetype-catalogs] 
+   installieren
+2. Einstellungen öffnen mit <kbd>⌘</kbd> + <kbd>,</kbd>
+3. Wechsel zu *Preferences \| Build, Execution, Deployment \| Build Tools \| 
+   Maven Archetype Catalogs*
+4. Auf das Hinzufügen-Symbol (+) klicken
+5. Im Eingabefeld die URL _https://repo.maven.apache.org/maven2/archetype-catalog.xml_ 
+   hinzufügen
+
+![IntelliJ Maven Archetype-Katalog erweitern]({{ "/assets/images/jvm/maven/maven-archetype-catalog.png" | relative_url }})
+
 ## Plugins
 
 * Testrunner[^testrunner]
@@ -178,3 +194,5 @@ _pom.xml:_ Verwendung des `-release` Compiler-Arguments.
 [^package-specific-lifecycle]: [Maven the reference guide : 4.2 Package-specific Lifecycles](https://books.sonatype.com/mvnref-book/reference/lifecycle-sect-package-specific.html)
 [^maven-semver-support]: [POM reference : Version Order Specification](https://maven.apache.org/pom.html#version-order-specification)
 [^maven-semver-bugfix]: [Legit but Useless: Maven Version Ranges Explained](https://medium.com/@MichaKutz/legit-but-useless-maven-version-ranges-explained-d4ba66ac654)
+
+[intellij-plugin-maven-archetype-catalogs]: https://plugins.jetbrains.com/plugin/7965-maven-archetype-catalogs
