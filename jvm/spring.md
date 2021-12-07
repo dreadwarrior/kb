@@ -43,7 +43,7 @@ Zusammenbauen von Objekten?
 
 ## Tooling
 
-* `spring-dev-tools`: Reload nach Build (<kbd>⌘ + F9</kbd>)
+* `spring-dev-tools`: Reload nach Build (<kbd>⌘</kbd>+<kbd>F9</kbd>)
 
 ## Links
 

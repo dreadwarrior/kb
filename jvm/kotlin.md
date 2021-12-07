@@ -21,7 +21,7 @@ parent: JVM
 ### Maven
 
 Mit der Property `kotlin.compiler.jvmTarget` wird die Eigenschaft in IntelliJ
-automatisch gesetzt (Projekt auswählen → <kbd>⌘ + ArrowDown</kbd> → Modules → Kotlin Target 
+automatisch gesetzt (Projekt auswählen → <kbd>⌘</kbd>+<kbd>↓</kbd> → Modules → Kotlin Target 
 platform).
 
 ~~~
