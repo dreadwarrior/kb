@@ -19,8 +19,6 @@ Klassenbibliotheken.[^1]
 
 ---
 
-* [gceasy - JVM Heap Dump Analyse](https://gceasy.io)
-
 ## `equals()` / `hashCode()`
 
 * gehören zusammen
@@ -31,7 +29,7 @@ Klassenbibliotheken.[^1]
 * diese Standardsignatur ermöglicht einmalige Implementierung und 
   Wiederverwendung in Collections der Standardbibliothek
 
-## Interessante Bibliotheken
+## Interessante Bibliotheken & Werkzeuge
 
 * [resilience4j](https://resilience4j.readme.io)
   * [Tutorial: RateLimiter](https://reflectoring.io/rate-limiting-with-resilience4j/#tune-client-side-and-server-side-rate-limiters)
@@ -42,6 +40,7 @@ Klassenbibliotheken.[^1]
 * [Kotlin kapt](https://kotlinlang.org/docs/kapt.html) (Annotation Processor)
 * MicroProfile (Eclipse) (z.B. OpenTracing)
 * [vy/hrrs: Record, transform, and replay HTTP requests in Java EE and Spring applications.](https://github.com/vy/hrrs)
+* [gceasy - JVM Heap Dump Analyse](https://gceasy.io)
 
 ---
 
