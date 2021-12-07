@@ -34,7 +34,10 @@ diese zu verwalten, fallen die Abkürzungen `j9` oder `hs` ins Auge.
  AdoptOpenJDK  |     | 16.0.1.j9    | adpt    | installed  | 16.0.1.j9-adpt
                |     | 16.0.1.hs    | adpt    | installed  | 16.0.1.hs-adpt
 ~~~
+{: .mb-0}
+
 _SDKMAN! sdk list java:_ Unterschiedliche JVM Implementationen.
+{: .code-example .mt-0 .fs-2}
 
 In einem 2018 erschienen [Artikel von Roy van Rijn][j9-vs-hs] wurden die 
 verschiedenen Implementationen auf ihre Geschwindigkeitsunterschiede untersucht.

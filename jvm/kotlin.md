@@ -29,8 +29,10 @@ platform).
     <kotlin.compiler.jvmTarget>17</kotlin.compiler.jvmTarget>
 </properties>
 ~~~
-{: .language-xml}
+{: .language-xml .mb-0}
+
 _pom.xml:_ Verwendung des Kotlin Compiler-Arguments `jvmTarget`.
+{: .code-example .mt-0 .fs-2}
 
 ## Scope functions
 

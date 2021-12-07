@@ -21,8 +21,10 @@ sein darf, kann man z.B. die Annotation `@Pattern` verwenden:
 @Pattern(regexp = "^(?!\\s*$).+", message = "May be null, but must not be blank.")
 private String name;
 ~~~
-{: .language-java}
+{: .language-java .mb-0}
+
 Beispiel zur Verwendung der `javax.validation.constraints.Pattern` annotation
+{: .code-example .mt-0 .fs-2}
 
 ## Links
 
