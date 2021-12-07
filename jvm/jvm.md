@@ -31,10 +31,6 @@ Klassenbibliotheken.[^1]
 * diese Standardsignatur ermöglicht einmalige Implementierung und 
   Wiederverwendung in Collections der Standardbibliothek
 
-## Comparatoren
-
-* werden zur Sortierung verwendet
-
 ## Interessante Bibliotheken
 
 * [resilience4j](https://resilience4j.readme.io)
