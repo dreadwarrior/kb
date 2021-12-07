@@ -19,6 +19,28 @@ Klassenbibliotheken.[^1]
 
 ---
 
+## JVM Implementationen
+
+Es gibt verschiedenen Implementationen der JVM. Zwei Beispiele dafür sind
+[Eclipse OpenJ9][open-j9] und [Oracle HotSpot][oracle-hs].
+
+Wenn man mit mehreren JVMs arbeitet und deshalb [SDKMAN!][sdkman] verwendet um
+diese zu verwalten, fallen die Abkürzungen `j9` oder `hs` ins Auge.
+
+~~~
+================================================================================
+ Vendor        | Use | Version      | Dist    | Status     | Identifier
+--------------------------------------------------------------------------------
+ AdoptOpenJDK  |     | 16.0.1.j9    | adpt    | installed  | 16.0.1.j9-adpt
+               |     | 16.0.1.hs    | adpt    | installed  | 16.0.1.hs-adpt
+~~~
+_SDKMAN! sdk list java:_ Unterschiedliche JVM Implementationen.
+
+In einem 2018 erschienen [Artikel von Roy van Rijn][j9-vs-hs] wurden die 
+verschiedenen Implementationen auf ihre Geschwindigkeitsunterschiede untersucht.
+Hierbei zeigte sich, dass die **OpenJ9**-Implementation einige Vorteile 
+aufweist.
+
 ## `equals()` / `hashCode()`
 
 * gehören zusammen
@@ -45,3 +67,8 @@ Klassenbibliotheken.[^1]
 ---
 
 [^1]: Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Java_Virtual_Machine)
+
+[open-j9]: https://www.eclipse.org/openj9/
+[oracle-hs]: http://openjdk.java.net/groups/hotspot/
+[sdkman]: https://sdkman.io/
+[j9-vs-hs]: https://www.royvanrijn.com/blog/2018/05/openj9-jvm-shootout/
