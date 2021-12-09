@@ -31,13 +31,13 @@ parent: JVM
     deklarierte und verwendete, aber nicht deklarierte Abhängigkeiten zu 
     ermitteln.
 6. `mvn archetype:generate` - Erzeugt ein Projekt auf Basis der Vorlage des
-   Archetypens.
+   Archetypes.
 7. `mvn -f dir/pom.xml package` - Erzwingt die Verwendung einer alternativen
     POM.
 8. `mvn -o <command>` - Führt `<command>` im Offline-Modus aus.
 9. `mvn -q <command>` - Führt `<command>` im stillen Modus aus. Es werden nur
    Fehler und Testergebnisse ausgegeben.
-10. `mvn -X <command>` - Führt `<command> im Debug-Modus aus.
+10. `mvn -X <command>` - Führt `<command>` im Debug-Modus aus.
 11. `mvn -v` - Zeigt Versionsinformation an.
 12. `mvn -V <command>` - Ausgabe von Versionsinformationen und anschließendes 
     Ausführen von `<command>`.
