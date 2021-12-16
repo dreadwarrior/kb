@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JUnit
-nav_order: 7
+nav_order: 70
 parent: JVM
 ---
 

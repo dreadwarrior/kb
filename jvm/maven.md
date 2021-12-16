@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maven
-nav_order: 2
+nav_order: 20
 parent: JVM
 ---
 

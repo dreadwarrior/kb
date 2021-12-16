@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spring Boot / Spring Framework
-nav_order: 5
+nav_order: 50
 parent: JVM
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JPA / Hibernate
-nav_order: 6
+nav_order: 60
 parent: JVM
 ---
 
